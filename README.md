@@ -3,6 +3,7 @@ I'm Myungsun Kim, a graduate student in GIST.
 
 🌱 Currently learning machine learning and data mining  
 ⚡ Interested in competition and contest  
+:house: Major: mechanical engineering (B.S), electrical engineering and computer science (M.S, candidate)  
 🤔 Research topic: power demand forecasting, household information inference from power consumption data  
 
 **Languages and Tools:**  
