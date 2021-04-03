@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Myungsun Kim, a graduate student in GIST.
+I'm Myungsun Kim, a graduate school student in GIST.
 
 🌱 Currently learning machine learning and data mining  
 ⚡ Interested in competition and contest  
