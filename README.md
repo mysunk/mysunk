@@ -6,7 +6,7 @@ I'm Myungsun Kim, a graduate school student in GIST.
 :house: Major: mechanical engineering (B.S), electrical engineering and computer science (M.S, candidate)  
 🤔 Research topics:  
   - Power demand forecasting
-  - Household information inference from power consumption data
+  - Household characteristics inference from smart meter data
   - Secret key generation for IoT authentications based on channel state information
 
 
