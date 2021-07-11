@@ -1,14 +1,9 @@
 ### Hi there 👋
-I'm Myungsun Kim, a graduate school student in GIST.
+I'm Myungsun Kim, a Big data/AI engineer.
 
 🌱 Currently learning machine learning and data mining  
 ⚡ Interested in competition and contest  
-:house: Major: mechanical engineering (B.S), electrical engineering and computer science (M.S, candidate)  
-🤔 Research topics:  
-  - Power demand forecasting
-  - Household characteristics inference from smart meter data
-  - Secret key generation for IoT authentications based on channel state information
-
+:house: Major: mechanical engineering (B.S), electrical engineering and computer science (M.S)  
 
 **Languages and Tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
