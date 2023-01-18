@@ -4,7 +4,7 @@ I'm Myungsun Kim, a Big data/AI engineer.
 **Work experiences:**   
 * Time series data analysis.  
 * Natural Language Processing.  
-* ML Pipeline (MLOps)
+* ML Pipeline engineering(MLOps).
 
 
 **Languages and Tools:**  
