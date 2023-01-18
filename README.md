@@ -1,9 +1,9 @@
 ### Hi there 👋
 I'm Myungsun Kim, a Big data/AI engineer.
 
-Major interest
-🌱 Time series data analysis
-🌱 Natural Language Processing
+**Work experiences:**   
+🌱 Time series data analysis.  
+🌱 Natural Language Processing.  
 🌱 ML Pipeline (MLOps)
 
 
