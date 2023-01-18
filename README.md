@@ -5,11 +5,12 @@ I'm Myungsun Kim, a Big data/AI engineer.
 * Time series data analysis.  
 * Natural Language Processing.  
 * ML Pipeline engineering(MLOps).
+* CI/CD via gitlab runner
+* Unit test
 
 
 ### Publications
-A list of `research publications` published in `domestic/international` `journals/conferences`.
-Please refer to the table below for information on each publications and corresponding github repos.  
+A list of `research publications` published in `domestic/international` `journals/conferences`.   
 You can find the details on GitHub repos.  
 
 |NO|Year|Works|Github Repo|Note|
@@ -19,10 +20,10 @@ You can find the details on GitHub repos.
 
 
 ### Data Science Projects
-The list of `data science projects`.  
+The list of data science `challenges/competitions`.  
 You can find all the EDA and srcs of the projects through the link in the table below.  
 
-|NO|TOPIC|PERIOD|RANK|REMARK|
+|NO|Works|PERIOD|RANK|REMARK|
 |:--------------------:|:--------------------:|:--------------------:|:--------------------:|:--------------------:|
 |1|[전력데이터 활용 신서비스 개발](https://github.com/mysunk/kepco-appliances-scheduling)|2020.06 ~ 2020.07|2|최우수상 수상|
 |2|[시스템 품질 변화로 인한 사용자 불편 예지](https://github.com/mysunk/dacon-lg-user)|2021.01 ~ 2021.02|3/408|Top 1 %|
@@ -32,11 +33,24 @@ You can find all the EDA and srcs of the projects through the link in the table 
 |6|[원자력발전소 상태 판단](https://github.com/mysunk/dacon-powerplant-state-estimation)|2020.01 ~ 2020.02|12/188|Top 6 %|
 |7|[온도 추정](https://github.com/mysunk/dacon-temperature-forecasting)|2020.03 - 2020.04|11/378|Top 3 %|
 
-### Others
-Languages and Tools:
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"></code>
+### Languages and Tools
+Language: 
+`python`
+`matlab`  
+AI/ML: 
+`tensorflow`
+`pytorch`
+`pandas`
+`tslearn`  
+API: 
+`fastapi`  
+MLOps: 
+`GCP`
+`dvc`
+`mlflow`
+`kubeflow`  
+Test: 
+`pytest`
 
 
 <!--
@@ -53,3 +67,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Contact
+If you have any questions please send me an 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pond9816@gmail.com)](mailto:pond9816@gmail.com)
+<!--- 
+<div align=center>  
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pond9816@gmail.com)](mailto:pond9816@gmail.com)  
+</div>  
+--->
+
