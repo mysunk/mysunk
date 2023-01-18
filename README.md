@@ -40,8 +40,9 @@ Language:
 AI/ML: 
 `tensorflow`
 `pytorch`
-`pandas`
-`tslearn`  
+`transformers`
+`tslearn`
+`pandas`  
 API: 
 `fastapi`  
 MLOps: 
