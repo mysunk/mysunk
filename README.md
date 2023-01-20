@@ -13,10 +13,10 @@ I'm Myungsun Kim, a Big data/AI engineer.
 A list of `research publications` published in `domestic/international` `journals/conferences`.   
 You can find the details on GitHub repos.  
 
-|NO|Year|Works|Github Repo|Note|
+|NO|Year|Works|Github Repo|Published in|
 |:--------------------:|:--------------------:|:------------:|:------------:|:------------:|
-|1|2021|[Inferring Socio-Demographic Information Using Smart Meter Data by Transfer Learning](https://ieeexplore.ieee.org/document/9791982)|[household-characteristic-inference](https://github.com/mysunk/household-characteristic-inference)|International Conference|
-|2|2020|[Deep Learning based end-to-end Physical Layer Secret Key Generation using Wireless Channel State Information](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE10501198)|[research-secretkey-generation](https://github.com/mysunk/research-secretkey-generation)|Domestic Conference|
+|1|2022|[Inferring Socio-Demographic Information Using Smart Meter Data by Transfer Learning](https://ieeexplore.ieee.org/document/9791982)|[household-characteristic-inference](https://github.com/mysunk/household-characteristic-inference)|ICGEA|
+|2|2020|[Deep Learning based end-to-end Physical Layer Secret Key Generation using Wireless Channel State Information](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE10501198)|[research-secretkey-generation](https://github.com/mysunk/research-secretkey-generation)|KICS|
 
 
 ### Data Science Projects
