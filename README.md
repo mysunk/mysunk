@@ -1,14 +1,6 @@
 ## Hi there 👋
 I'm Myungsun Kim, a Big data/AI engineer.
 
-### Work experiences
-* Time series data analysis & API Serving to AmorePacific - `B2B`
-* Natural Language Generation & API Serving to Customers - `B2C`
-* ML Pipeline engineering(MLOps) - `Platform`
-* CI/CD via gitlab runner - `Platform`
-* Unit test
-
-
 ### Publications
 A list of `research publications` published in `domestic/international` `journals/conferences`.   
 You can find the details on GitHub repos.  
@@ -17,7 +9,6 @@ You can find the details on GitHub repos.
 |:--------------------:|:--------------------:|:------------:|:------------:|:------------:|
 |1|2022|[Inferring Socio-Demographic Information Using Smart Meter Data by Transfer Learning](https://ieeexplore.ieee.org/document/9791982)|[household-characteristic-inference](https://github.com/mysunk/household-characteristic-inference)|ICGEA|
 |2|2020|[Deep Learning based end-to-end Physical Layer Secret Key Generation using Wireless Channel State Information](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE10501198)|[research-secretkey-generation](https://github.com/mysunk/research-secretkey-generation)|KICS|
-
 
 ### Data Science Projects
 The list of data science `challenges/competitions`.  
@@ -33,6 +24,14 @@ You can find all the EDA and srcs of the projects through the link in the table 
 |6|[원자력발전소 상태 판단](https://github.com/mysunk/dacon-powerplant-state-estimation)|2020.01 ~ 2020.02|12/188|Top 6 %|한국수력원자력|
 |7|[온도 추정](https://github.com/mysunk/dacon-temperature-forecasting)|2020.03 - 2020.04|11/378|Top 3 %|한국원자력연구원|
 
+### Work experiences
+* Time series data analysis & API Serving to AmorePacific - `B2B`
+* Natural Language Generation & API Serving to Customers - `B2C`
+* ML Pipeline engineering(MLOps) - `Platform`
+* CI/CD via gitlab runner - `Platform`
+* Unit test
+
+<!--
 ### Languages and Tools
 Language: 
 `python`
@@ -52,7 +51,7 @@ MLOps:
 `kubeflow`  
 Test: 
 `pytest`
-
+-->
 
 <!--
 **mysunk/mysunk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
