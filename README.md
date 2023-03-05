@@ -29,29 +29,6 @@ You can find all the EDA and srcs of the projects through the link in the table 
 * Natural Language Generation & API Serving to Customers - `B2C`
 * ML Pipeline engineering(MLOps) - `Platform`
 * CI/CD via gitlab runner - `Platform`
-* Unit test
-
-<!--
-### Languages and Tools
-Language: 
-`python`
-`matlab`  
-AI/ML: 
-`tensorflow`
-`pytorch`
-`transformers`
-`tslearn`
-`pandas`  
-API: 
-`fastapi`  
-MLOps: 
-`GCP`
-`dvc`
-`mlflow`
-`kubeflow`  
-Test: 
-`pytest`
--->
 
 <!--
 **mysunk/mysunk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
